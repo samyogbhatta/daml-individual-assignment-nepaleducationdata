@@ -3,12 +3,12 @@
 Welcome to the `daml-individual-assignment-nepaleducationdata` repository!
 
 ## Overview
-This project is part of an individual assignment focused on analyzing and managing educational data related to Nepal using DAML (Digital Asset Modeling Language). It aims to create solutions that enhance educational insights and decision-making.
+This project is part of an individual assignment focused on analyzing and managing educational data related to Nepal using data analytics and machine learning. The objective is to create insights and solutions to enhance decision-making in the education sector.
 
 ## Features
 - Analysis of education data for Nepal
-- Use of DAML for data modeling
-- Queries and transactions for efficient data handling
+- Application of machine learning models
+- Queries and visualizations to derive meaningful insights
 
 ## Getting Started
 To get started with this repository, follow the steps below:
@@ -23,11 +23,15 @@ To get started with this repository, follow the steps below:
    cd daml-individual-assignment-nepaleducationdata
    ```
 
-3. Ensure you have DAML installed on your system. Follow the instructions at the [DAML Documentation](https://docs.daml.com/getting-started/installation.html) to set up.
-
-4. Start the DAML project:
+3. Ensure you have Python and Jupyter Notebook installed.
+   Install the required libraries:
    ```bash
-   daml start
+   pip install -r requirements.txt
+   ```
+
+4. Explore the provided notebooks or run analyses:
+   ```bash
+   jupyter notebook
    ```
 
 ## Contributing
@@ -37,4 +41,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-*Generated on 2026-01-03 07:23:17 UTC*
+*Generated on 2026-01-03 07:24:50 UTC*
