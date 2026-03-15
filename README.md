@@ -1,4 +1,4 @@
-# DAML Individual Assignment: Nepal Education Data
+# DAML Individual Assignment: Nepal Education Dataa
 
 Welcome to the `daml-individual-assignment-nepaleducationdata` repository!
 
